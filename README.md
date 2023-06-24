@@ -13,6 +13,11 @@ Easy-to-use functions with a focus on clarity and flexibility.
 # Use Cases
 This project is useful for researchers and engineers working in the field of autonomous driving, robotics, and computer vision who want to work with the KITTI dataset. It provides tools to manipulate and visualize 3D LiDAR data and annotations.
 
+#Example Output:
+Here is the input image:
+![Alt text](000005.png)
+
+Output image with 3D bounding boxes of detected objects
 ![Alt text](image_5_output.png)
 
 
