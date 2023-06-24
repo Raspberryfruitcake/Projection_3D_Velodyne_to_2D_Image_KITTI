@@ -1,7 +1,5 @@
 # Projection_3D_Velodyne_to_2D_Image_KITTI
 This repository contains Python scripts and utility functions for processing and visualizing 3D LiDAR data and bounding boxes from the KITTI Dataset. It includes code for transforming 3D LiDAR points from Velodyne coordinates to 2D image coordinates, rotating 3D bounding boxes around their center, and drawing the 3D bounding boxes on 2D images.
-# Description:
-This repository contains Python scripts and utility functions for processing and visualizing 3D LiDAR data and bounding boxes from the KITTI Vision Benchmark Suite. It includes code for transforming 3D LiDAR points from Velodyne coordinates to 2D image coordinates, rotating 3D bounding boxes around their center, and drawing the 3D bounding boxes on 2D images.
 
 # Features
 Conversion of 3D points from Velodyne to camera coordinates.
