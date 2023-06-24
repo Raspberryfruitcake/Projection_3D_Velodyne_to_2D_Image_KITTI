@@ -15,9 +15,11 @@ This project is useful for researchers and engineers working in the field of aut
 
 # Example Output:
 Here is the input image:
+
 ![Alt text](000005.png)
 
-Output image with 3D bounding boxes of detected objects
+Output image with 3D bounding boxes of detected objects:
+
 ![Alt text](image_5_output.png)
 
 
