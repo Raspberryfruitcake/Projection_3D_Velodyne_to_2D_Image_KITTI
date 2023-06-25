@@ -7,7 +7,6 @@ This repository contains Python scripts and utility functions for processing and
 * Rotation of 3D bounding boxes around their center in 3D space.
 * Visualization of 3D bounding boxes on 2D images.
 * Handling of calibration matrices and transformation matrices in KITTI dataset.
-* Easy-to-use functions with a focus on clarity and flexibility.
 # Use Cases
 This project is useful for researchers and engineers working in the field of autonomous driving, robotics, and computer vision who want to work with the KITTI dataset. It provides tools to manipulate and visualize 3D LiDAR data and annotations.
 
