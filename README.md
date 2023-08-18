@@ -15,7 +15,7 @@ Here is the input image:
 
 ![Alt text](000005.png)
 
-Output image with 3D bounding boxes of detected objects:
+Output image with 3D bounding boxes of detected objects using PVRCNN:
 
 ![Alt text](image_5_output.png)
 
